@@ -18,3 +18,5 @@
 3. [Multi-turn Conversation Guide](https://ai.google.dev/gemini-api/docs/text-generation#multi-turn-conversations)
     - This guide explains how to manage multi-turn conversations using the Gemini API, including maintaining context and handling user inputs across multiple interactions.
 
+4. [Streaming Interactions](https://ai.google.dev/gemini-api/docs/streaming#streaming-with-tools)
+    - When creating an Interaction, you can set stream: true to incrementally stream the response using server-sent events (SSE).
